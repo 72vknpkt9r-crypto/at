@@ -20,3 +20,5 @@ if num1 == num2:  # используем двойное равенство
     print(num1, 'equals', num2)
 if num1 != num2:
     print(num1, 'not equal', num2)
+
+    #fix
